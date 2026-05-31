@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Diplom\\SysMail\\SysMail\\SysMail.csproj",
+      "projectUniqueName": "D:\\ProjectDiplom\\SysMail\\SysMail\\SysMail.csproj",
       "projectName": "SysMail",
-      "projectPath": "D:\\Diplom\\SysMail\\SysMail\\SysMail.csproj",
+      "projectPath": "D:\\ProjectDiplom\\SysMail\\SysMail\\SysMail.csproj",
       "packagesPath": "C:\\Users\\Dimas\\.nuget\\packages\\",
-      "outputPath": "D:\\Diplom\\SysMail\\SysMail\\obj\\",
+      "outputPath": "D:\\ProjectDiplom\\SysMail\\SysMail\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\сишка\\сдк\\NuGetPackages"
